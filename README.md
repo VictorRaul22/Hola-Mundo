@@ -1,3 +1,10 @@
 # Hello-world
-Hello world in C++
+
 Author: Victtor
+
+My code go here
+
+#include<stdio.h>
+//Pratica inicial
+
+printf("Hi World");
